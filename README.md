@@ -7,7 +7,7 @@ Installed Package:
     npm i axios
     npm i moment
 
-HAT I LEARNED FROM THIS TUTORIALS:
+WHAT I LEARNED FROM THIS TUTORIALS:
 
 
 Naming Convention: BEM
