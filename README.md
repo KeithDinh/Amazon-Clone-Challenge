@@ -1,11 +1,11 @@
 Installed Package:
-    npm i firebase-tools
-    npm i firebase
-    npm i react-currency-format
-    npm i @stripe/stripe-js
-    npm i @stripe/react-stripe-js
-    npm i axios
-    npm i moment
+    - npm i firebase-tools
+    - npm i firebase
+    - npm i react-currency-format
+    - npm i @stripe/stripe-js
+    - npm i @stripe/react-stripe-js
+    - npm i axios
+    - npm i moment
 
 WHAT I LEARNED FROM THIS TUTORIALS:
 
@@ -29,9 +29,9 @@ useHistory()
 
 
 FIREBASE
-    firebase firestone db
-    firebase hosting
-    firebase functions
-    firebase emulators:start
+    - firebase firestone db
+    - firebase hosting
+    - firebase functions
+    - firebase emulators:start
 
 moment handles timestamp format
